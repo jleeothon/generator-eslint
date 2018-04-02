@@ -29,18 +29,18 @@
   },
   "dependencies": {
     "mkdirp": "^0.5.1",
-    "run-async": "2.2.x",
-    "yeoman-generator": "^0.22.5"
+    "run-async": "^2.3.0",
+    "yeoman-generator": "^0.23.0"
   },
   "devDependencies": {
-    "eslint": "^2.6.0",
-    "eslint-config-eslint": "^3.0.0",
-    "eslint-release": "^0.10.1",
-    "mocha": "^2.4.5",
-    "require-uncached": "^1.0.2",
-    "sinon": "^1.17.5",
-    "yeoman-assert": "^2.1.2",
-    "yeoman-test": "^1.1.0"
+    "eslint": "^4.19.1",
+    "eslint-config-eslint": "^4.0.0",
+    "eslint-release": "^0.11.0",
+    "mocha": "^2.5.0",
+    "require-uncached": "^1.0.3",
+    "sinon": "^1.17.7",
+    "yeoman-assert": "^2.2.3",
+    "yeoman-test": "^1.7.0"
   },
   "peerDependencies": {
     "yo": ">=1.0.0"
